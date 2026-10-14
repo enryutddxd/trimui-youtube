@@ -1,0 +1,7 @@
+{
+  "label": "YouTube",
+  "icon": "icon.png",
+  "iconsel": "icon.png",
+  "launch": "launch.sh",
+  "description": "YouTube (fase de pruebas 3)"
+}
